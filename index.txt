@@ -1,0 +1,187 @@
+sidebar
+
+alt = Shubham Ubale
+Shubham Ubale
+Web Developer
+
+Show Contacts
+
+Email
+ubalekartik203@gmail.com
+
+Phone
++91 8856832687
+
+Birthday
+January 1, 2000
+
+Location
+Niphad, Maharashtra, India
+
+navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+about
+
+About me
+
+I'm a Web Developer from Nashik, India, specializing in creating fully responsive websites with backend integration. I am passionate about building functional and user-friendly applications while ensuring an intuitive user experience.
+
+My job is to bring your vision to life by developing high-quality websites and applications. I strive to create seamless digital experiences that are visually appealing and efficient. I have worked on various projects, including AI security and hiring AI solutions.
+
+service
+
+What I'm doing
+
+alt = design icon
+Web design
+Creating modern and high-quality website designs.
+
+alt = Web development icon
+Web development
+Professional-grade website and application development.
+
+alt = mobile app icon
+Application Development
+Building user-friendly mobile and web applications.
+
+alt = ai security icon
+AI Security
+Developing AI-powered security solutions.
+
+testimonials
+
+Testimonials
+
+alt = Daniel Lewis
+Daniel Lewis
+Shubham was hired to develop an AI security system. We were extremely satisfied with the results. His expertise and attention to detail made a significant impact on our project.
+
+alt = Jessica Miller
+Jessica Miller
+Shubham developed a hiring AI solution for our company, and it exceeded our expectations. His technical knowledge and dedication ensured a seamless experience.
+
+alt = Emily Evans
+Emily Evans
+Shubham created an innovative web application for our business, integrating AI security features. His work was impressive, and we highly recommend him.
+
+alt = Henry William
+Henry William
+Shubham designed and built a high-quality, fully responsive website for us. His skills in web development and security implementation were outstanding.
+
+clients
+
+Clients
+
+alt = client logo
+
+resume
+
+Resume
+
+Education
+
+University of Mysore
+2024 — Pursuing
+Currently completing a Bachelor of Computer Applications (BCA).
+
+Experience
+
+Web Developer
+2023 — Present
+Developing responsive websites and AI security solutions.
+
+My skills
+
+Web design
+90%
+Web development
+85%
+Application Development
+80%
+AI Security
+75%
+
+portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = baaptube
+BaapTube
+Web development
+
+alt = hiringai
+Hiring AI
+AI & Web development
+
+alt = ai_security
+AI Security
+Cybersecurity Solutions
+
+alt = portfolio
+Personal Portfolio
+Web design
+
+alt = task_manager
+Task Manager
+Applications
+
+alt = website_debugging
+Website Debugging
+Web development
+
+blog
+
+Blog
+
+alt = AI in Web Development
+Technology
+March 10, 2025
+AI in Web Development
+How AI is revolutionizing the web development industry.
+
+alt = Best Practices in Cybersecurity
+Cybersecurity
+March 5, 2025
+Best Practices in Cybersecurity
+Essential security practices for developers and businesses.
+
+alt = Responsive Design Trends
+Design
+March 1, 2025
+Responsive Design Trends
+Latest trends in creating responsive websites.
+
+alt = AI-powered Hiring Solutions
+AI & HR
+February 25, 2025
+AI-powered Hiring Solutions
+How AI is transforming the recruitment process.
+
+contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
